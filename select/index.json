@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Falling",
+  "base_artist": "Harry Styles",
+  "createdAt": "2026-03-30T03:43:25.914326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Help Falling in Love",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_Can't_Help_Falling_in_Love_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Please Help Me, I'm Falling",
+      "artist": "Hank Locklin",
+      "has_synced": true,
+      "path": "select/02_Please_Help_Me,_I'm_Falling_Hank_Locklin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Please Help Me, I'm Falling (Album Version)",
+      "artist": "Hank Locklin",
+      "has_synced": true,
+      "path": "select/03_Please_Help_Me,_I'm_Falling_(Album_Version)_Hank_Locklin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Timber I'm Falling In Love",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/04_Timber_I'm_Falling_In_Love_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Timber I'm Falling In Love (Album Version)",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/05_Timber_I'm_Falling_In_Love_(Album_Version)_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": true,
+      "path": "select/06_Would_You_Catch_a_Falling_Star_John_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Would You Catch a Falling Star",
+      "artist": "John Anderson",
+      "has_synced": false,
+      "path": "select/07_Would_You_Catch_a_Falling_Star_John_Anderson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Falling Slowly",
+      "artist": "Glen Hansard & Markéta Irglová",
+      "has_synced": true,
+      "path": "select/08_Falling_Slowly_Glen_Hansard_&_Markéta_Irglová.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Not Falling Apart",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/09_Not_Falling_Apart_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "원하기 전에 Falling Out",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/10_원하기_전에_Falling_Out_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Coming (Intro)/ A Black Child Was Born / The 8th Wonder/ Keep Falling",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/11_The_Coming_(Intro)__A_Black_Child_Was_Born___The_8th_Wonder__Keep_Falling_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jigsaw Falling Into Place",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Jigsaw_Falling_Into_Place_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where I End and You Begin (The Sky Is Falling in)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/13_Where_I_End_and_You_Begin_(The_Sky_Is_Falling_in)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Where I End And You Begin. (The Sky Is Falling In.)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/14_Where_I_End_And_You_Begin._(The_Sky_Is_Falling_In.)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Falling",
+      "artist": "Laurie Anderson",
+      "has_synced": false,
+      "path": "select/15_Falling_Laurie_Anderson.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Falling Down",
+      "artist": "Lil Peep feat. XXXTENTACION",
+      "has_synced": true,
+      "path": "select/16_Falling_Down_Lil_Peep_feat._XXXTENTACION.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Falling Down (feat. XXXTentacion)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/17_Falling_Down_(feat._XXXTentacion)_Lil_Peep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Falling",
+      "artist": "Harry Styles",
+      "has_synced": false,
+      "path": "select/pl_01_Falling_Harry_Styles.txt"
+    }
+  ]
+}
